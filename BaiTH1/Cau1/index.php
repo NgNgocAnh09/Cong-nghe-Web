@@ -141,4 +141,5 @@ $is_admin = $role === 'admin';
 
     </div>
 </body>
+
 </html>
